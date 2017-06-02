@@ -1,18 +1,18 @@
 {
 	"url": "https://github.com/awoooooooooo/awwwwwwwwwwwwwwwwwwwwwwwwwwwwwww/releases/download/2.0.1/Tweeten-darwin-x64.zip",
-	"new": {
+	"new": [
 		"AAAAAAAAAAAAAAAAAAAAAAA",
 		"AAAAAAAAAAAAAAAAAAAAAA",
 		"AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA"
-	},
-	"fixes": {
+	],
+	"fixes": [
 		"2AAAAAAAAAAAAAAAAAAAAAAA",
 		"2AAAAAAAAAAAAAAAAAAAAAA",
 		"2AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA"
-	},
-	"issues": {
+	],
+	"issues": [
 		"3AAAAAAAAAAAAAAAAAAAAAAA",
 		"3AAAAAAAAAAAAAAAAAAAAAA",
 		"3AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA"
-	}
+	]
 }
