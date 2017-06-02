@@ -1,18 +1,19 @@
 {
-	"url": "https://github.com/awoooooooooo/awwwwwwwwwwwwwwwwwwwwwwwwwwwwwww/releases/download/2.0.1/Tweeten-darwin-x64.zip",
+	"url": "https://github.com/awoooooooooo/awwwwwwwwwwwwwwwwwwwwwwwwwwwwwww/releases/download/2.0.2/Tweeten-darwin-x64.zip",
 	"new": [
-		"AAAAAAAAAAAAAAAAAAAAAAA",
-		"AAAAAAAAAAAAAAAAAAAAAA",
-		"AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA"
+		"Lots of improvements to the light theme, should be now usable",
+		"Accounts drawer now fully styled",
+		"Column options now styled",
+		"Embed This Tweet modal now fully styled",
+		"Copy Link To This Tweet modal now styled",
+		"Follow From Accounts modal now styled",
+		"Like From Accounts modal now styled",
+		"Add Or Remove From Lists modal now styled",
+		"Add To Collection modal now styled",
+		"You can now view the latest update’s changelog from Settings > About",
+		"The animation for navigating columns has been changed"
 	],
 	"fixes": [
-		"2AAAAAAAAAAAAAAAAAAAAAAA",
-		"2AAAAAAAAAAAAAAAAAAAAAA",
-		"2AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA"
-	],
-	"issues": [
-		"3AAAAAAAAAAAAAAAAAAAAAAA",
-		"3AAAAAAAAAAAAAAAAAAAAAA",
-		"3AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA"
+		"Fixed the changelog issue for auto updates. Should be “actually” fixed when I release the next update"
 	]
 }
