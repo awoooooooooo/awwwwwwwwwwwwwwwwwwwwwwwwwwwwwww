@@ -2,7 +2,8 @@
 	"url": "https://github.com/awoooooooooo/awwwwwwwwwwwwwwwwwwwwwwwwwwwwwww/releases/download/2.0.3/Tweeten-darwin-x64.zip",
 	"new": [
 		"Search UI",
-		"Keyboard shortcuts and search tips UI"
+		"Keyboard shortcuts and search tips UI",
+		"Setup exe now has an actual Tweeten icon"
 	],
 	"fixes": [
 		"Fixed an issue which caused auto updates to display an error in some cases",
