@@ -1,12 +1,20 @@
 {
-	"url": "https://github.com/awoooooooooo/awwwwwwwwwwwwwwwwwwwwwwwwwwwwwww/releases/download/2.0.3/Tweeten-darwin-x64.zip",
+	"url": "https://github.com/awoooooooooo/awwwwwwwwwwwwwwwwwwwwwwwwwwwwwww/releases/download/2.0.4/Tweeten-darwin-x64.zip",
 	"new": [
-		"Search UI",
-		"Keyboard shortcuts and search tips UI",
-		"Setup exe now has an actual Tweeten icon"
+		"Splash screen!",
+		"You can now download GIFs",
+		"Major changes to the light theme color scheme",
+		"Improved some of the UI elements for the modals"
 	],
 	"fixes": [
-		"Fixed an issue which caused auto updates to display an error in some cases",
-		"Improvements to the light theme and minor general styling improvements"
+		"[Windows] Fixed an issue which caused multiple instances to start after saving settings",
+		"[Windows] Fixed an issue which caused the app to reset after saving settings", 
+		"[Windows] Fixed an issue which caused settings to crash with tray icon enabled",
+		"[Windows] Fixed an issue which resulted in a black border showing up during the app startup for a few seconds",
+		"[Mac] Fixed an issue which caused the context menu to stop working"
+	],
+	"issues": [
+		"[Mac] Auto-updates do not work when app is on a non-writeable folder such as Downloads",
+		"[Windows] Tray icon is visible even after disabling it from Settings and requires restart to compeltely disappear"
 	]
 }
