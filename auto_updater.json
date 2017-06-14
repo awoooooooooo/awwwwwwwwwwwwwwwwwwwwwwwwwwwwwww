@@ -4,7 +4,8 @@
 		"Splash screen!",
 		"You can now download GIFs",
 		"Major changes to the light theme color scheme",
-		"Improved some of the UI elements for the modals"
+		"Improved some of the UI elements for the modals",
+		"[Windows] The app now allows only one instance when you have minimize to tray enabled"
 	],
 	"fixes": [
 		"[Windows] Fixed an issue which caused multiple instances to start after saving settings",
