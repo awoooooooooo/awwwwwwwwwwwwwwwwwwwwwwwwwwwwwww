@@ -1,21 +1,19 @@
 {
-	"url": "https://github.com/awoooooooooo/awwwwwwwwwwwwwwwwwwwwwwwwwwwwwww/releases/download/2.0.4/Tweeten-darwin-x64.zip",
+	"url": "https://github.com/awoooooooooo/awwwwwwwwwwwwwwwwwwwwwwwwwwwwwww/releases/download/2.0.5/Tweeten-darwin-x64.zip",
 	"new": [
-		"Splash screen!",
-		"You can now download GIFs",
-		"Major changes to the light theme color scheme",
-		"Improved some of the UI elements for the modals",
-		"[Windows] The app now allows only one instance when you have minimize to tray enabled"
+		"You can now download GIFs from the GIF zoom modal!",
+		"Release Notes for latest updates now look better on the dark theme",
+		"Added better error handling for the auto update system"
 	],
 	"fixes": [
-		"[Windows] Fixed an issue which caused multiple instances to start after saving settings",
-		"[Windows] Fixed an issue which caused the app to reset after saving settings", 
-		"[Windows] Fixed an issue which caused settings to crash with tray icon enabled",
-		"[Windows] Fixed an issue which resulted in a black border showing up during the app startup for a few seconds",
-		"[Mac] Fixed an issue which caused the context menu to stop working"
+		"[Windows] Fixed an issue which caused multiple tray icons to show up after saving settings",
+		"Fixed a cache-related issue which prevented hot fixes from working properly,"
+		"Fixed the new TweetDeck icons", 
+		"Moved the Release Notes button from About to Updates", 
+		"Fixed an issue which caused Check for Updates to stop working after update fails",
+		"Slightly tweaked the UI"
 	],
 	"issues": [
-		"[Mac] Auto-updates do not work when app is on a non-writeable folder such as Downloads",
-		"[Windows] Tray icon is visible even after disabling it from Settings and requires restart to compeltely disappear"
+		"[Mac] Auto-updates do not work when app is on a non-writeable folder such as Downloads"
 	]
 }
