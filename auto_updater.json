@@ -1,0 +1,19 @@
+{
+	"url": "https://github.com/awoooooooooo/awwwwwwwwwwwwwwwwwwwwwwwwwwwwwww/releases/download/2.0.5/Tweeten-darwin-x64.zip",
+	"new": [
+		"You can now download GIFs from the GIF zoom modal!",
+		"Release Notes for latest updates now look better on the dark theme",
+		"Added better error handling for the auto update system"
+	],
+	"fixes": [
+		"[Windows] Fixed an issue which caused multiple tray icons to show up after saving settings",
+		"Fixed a cache-related issue which prevented hot fixes from working properly,"
+		"Fixed the new TweetDeck icons", 
+		"Moved the Release Notes button from About to Updates", 
+		"Fixed an issue which caused Check for Updates to stop working after update fails",
+		"Slightly tweaked the UI"
+	],
+	"issues": [
+		"[Mac] Auto-updates do not work when app is on a non-writeable folder such as Downloads"
+	]
+}
