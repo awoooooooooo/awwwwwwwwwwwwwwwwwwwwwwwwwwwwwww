@@ -15,5 +15,8 @@
 	],
 	"issues": [
 		"[Mac] Auto-updates do not work when app is on a non-writeable folder such as Downloads"
+	],
+	"githubpls": [
+		"aaaaa"
 	]
 }
