@@ -2,7 +2,7 @@
 	"url": "https://github.com/awoooooooooo/awwwwwwwwwwwwwwwwwwwwwwwwwwwwwww/releases/download/2.0.5/Tweeten-darwin-x64.zip",
 	"new": [
 		"You can now download GIFs from the GIF zoom modal!",
-		"Release Notes for latest updates now look better on the dark theme",
+		"Release Notes for latest updates now look better on the dark theme, yay!",
 		"Added better error handling for the auto update system"
 	],
 	"fixes": [
