@@ -2,7 +2,7 @@
 	"url": "https://github.com/awoooooooooo/awwwwwwwwwwwwwwwwwwwwwwwwwwwwwww/releases/download/2.0.6/Tweeten-darwin-x64.zip",
 	"new": [
 		"New setup animation",
-		"Settings has been completely revamped behind the scenes, which means <br>your existing settings will be reset with the new update</br>",
+		"Settings has been completely revamped behind the scenes, which means <br>your existing settings might get reset with the new update</br>",
 		"You can now set Tweeten to be always on top of other windows (View > Toggle Always On Top / Ctrl + Shift + A)",
 		"You can now backup, import, and reset Tweeten settings",
 		"You can now ask Tweeten to ask you to save changes before closing settings",
